@@ -2,7 +2,7 @@
 
 快速开始：
 
-使用 **JupyterLab** 打开 **adjust.**ipynb 和 **main**.ipynb
+使用 **JupyterLab** 打开 **adjust**.ipynb 和 **main**.ipynb
 
 优先运行 **adjust**.ipynb 根据环境光影，使用滑块实时调整HSV，以达到最优检测效果
 
